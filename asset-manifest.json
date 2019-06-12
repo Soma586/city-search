@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-search/./static/css/main.34de6062.chunk.css",
+    "main.js": "/city-search/./static/js/main.3e576964.chunk.js",
+    "main.js.map": "/city-search/./static/js/main.3e576964.chunk.js.map",
+    "runtime~main.js": "/city-search/./static/js/runtime~main.57395e25.js",
+    "runtime~main.js.map": "/city-search/./static/js/runtime~main.57395e25.js.map",
+    "static/js/2.8fd7973f.chunk.js": "/city-search/./static/js/2.8fd7973f.chunk.js",
+    "static/js/2.8fd7973f.chunk.js.map": "/city-search/./static/js/2.8fd7973f.chunk.js.map",
+    "index.html": "/city-search/./index.html",
+    "precache-manifest.161b40bee5823cb15f807444c215653c.js": "/city-search/./precache-manifest.161b40bee5823cb15f807444c215653c.js",
+    "service-worker.js": "/city-search/./service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/city-search/./static/css/main.34de6062.chunk.css.map"
+  }
+}
